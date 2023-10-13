@@ -39,7 +39,7 @@ class _SettingsTabState extends State<SettingsTab> {
                         color: Theme.of(context).primaryColor,
                         width: 2)),
                 child: Text(
-                  provider.currentTheme == ThemeMode.light
+                  provider.currentTheme == ThemeMode.dark
                       ? "dark"
                       : "light",
                   style: TextStyle(
