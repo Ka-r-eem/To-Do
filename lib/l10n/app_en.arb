@@ -1,0 +1,22 @@
+{
+  "dont": "Don't have account?",
+  "register": "Register",
+  "login": "Login",
+  "already": "Already have account?",
+  "fullname": "FullName",
+  "username": "UserName",
+  "email": "Email",
+  "password": "Password",
+  "passwordConfirm": "Confirm Password",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "light": "Light",
+  "dark": "Dark",
+  "addTask" : "Add Task",
+  "update": "Update",
+  "cancel": "Cancel",
+  "date": "Date",
+  "description": "Description",
+  "title": "Title"
+}
